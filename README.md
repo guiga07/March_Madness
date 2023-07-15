@@ -1,2 +1,2 @@
 # March_Madness
-Top to bottom tournament tracker application using .net and Visual Studio.
+Using .net and Visual Studio, we will construct a tournament tracker application that is fit to launch. The application uses Winforms, a class library, events, SQL database, text file data storage (in CSV format), custom events and more. This application can be used for arranging NCAA march madness tournament for example, which will be it's primary use.
